@@ -1,0 +1,16 @@
+#
+# num-nikname	3
+¶¶
+# nikname-fio
+¶¶
+# fio-year	5
+¶-¶-¶
+# year-city	7
+¶¶¶¶¶¶
+# city-team	9
+¶
+# team-end	11
+¶¶
+
+
+#end

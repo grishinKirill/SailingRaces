@@ -1,0 +1,2 @@
+Row_1=1¶¶Mynik¶¶ФИО¶-¶-¶1234¶Ж¶¶ðóëåâîé¶¶¶IKT¶ITMO¶¶
+Row_2=2¶¶dsafd¶¶sfdfs ¶-¶-¶4324¶М¶¶ðóëåâîé¶¶¶fussed¶fdsfsd¶¶
