@@ -1,6 +1,6 @@
 #!/bin/bash
 INPUT="table.csv"
-OUTPUT="output2.txt"
+OUTPUT="output.txt"
 exec 1>$OUTPUT
 OLDIFS=$IFS
 IFS=','; i=-1;
@@ -9,7 +9,7 @@ IFS=','; i=-1;
 while read time fio sex nikname tel city year team bio check email
 do
  i=$(( $i + 1 )); if [ $i -eq 0 ] ; then  continue; fi	
-echo "Row_$i=$i¶¶$nikname¶¶$fio¶-¶-¶$year¶$sex¶¶ðóëåâîé¶¶¶$city¶$team¶¶"	
+echo "Row_$i=$i!!$nikname!!$fio!-!-!$year!$sex!!!!!$city!$team!!"	
 done < $INPUT
 IFS=$OLDIFS
 
